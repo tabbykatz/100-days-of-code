@@ -18,3 +18,5 @@ With a deadline approaching, I worked on airbnb clone most of the day. (Managed 
 Refactoring code in the clone has me wondering if "review" is even a word?
 ### day 4/99
 Today is the last day of my airbnb project, but I also got in time on #freeCodeCamp and refreshed my Vim knowledge at openvim.com
+### day 5/99
+PLD for RESTful API. Some free code camp, not much. 
