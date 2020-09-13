@@ -20,3 +20,5 @@ Refactoring code in the clone has me wondering if "review" is even a word?
 Today is the last day of my airbnb project, but I also got in time on #freeCodeCamp and refreshed my Vim knowledge at openvim.com
 ### day 5/99
 PLD for RESTful API. Some free code camp, not much. 
+### day 6/99
+javascript with freeCodeCamp: I've played with it before but it's much more intuitive now that I have a strong C and python foundation.
