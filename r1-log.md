@@ -22,3 +22,5 @@ Today is the last day of my airbnb project, but I also got in time on #freeCodeC
 PLD for RESTful API. Some free code camp, not much. 
 ### day 6/99
 javascript with freeCodeCamp: I've played with it before but it's much more intuitive now that I have a strong C and python foundation.
+### day 7/99
+worked on project 2/5 for web design. researched capstone projects. 
