@@ -24,3 +24,5 @@ PLD for RESTful API. Some free code camp, not much.
 javascript with freeCodeCamp: I've played with it before but it's much more intuitive now that I have a strong C and python foundation.
 ### day 7/99
 worked on project 2/5 for web design. researched capstone projects. 
+### day 8/99
+first day of algorithms practice on LeetCode 
