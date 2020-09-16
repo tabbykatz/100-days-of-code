@@ -26,3 +26,6 @@ javascript with freeCodeCamp: I've played with it before but it's much more intu
 worked on project 2/5 for web design. researched capstone projects. 
 ### day 8/99
 first day of algorithms practice on LeetCode 
+### day 9/99
+more algos on LeetCode, plus a javascript project. First day in many I didn't
+get to FCC
