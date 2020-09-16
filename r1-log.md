@@ -29,3 +29,6 @@ first day of algorithms practice on LeetCode
 ### day 9/99
 more algos on LeetCode, plus a javascript project. First day in many I didn't
 get to FCC
+### day 10/99
+PLD day, evaluation quiz, preparing for final project. Played around on
+Javascript.com
