@@ -32,3 +32,7 @@ get to FCC
 ### day 10/99
 PLD day, evaluation quiz, preparing for final project. Played around on
 Javascript.com
+### day 11/99
+today was a breakthrough for me with apis. studying alone is one thing, but
+working with another who can help you expose your areas of relative weakness is
+such win. 
