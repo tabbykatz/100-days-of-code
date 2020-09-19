@@ -36,3 +36,6 @@ Javascript.com
 today was a breakthrough for me with apis. studying alone is one thing, but
 working with another who can help you expose your areas of relative weakness is
 such win. 
+### day 12/99
+Stumped on a #LeetCode problem?
+Yes. And then, when you get it, you *get* it.
