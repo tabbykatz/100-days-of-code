@@ -41,3 +41,6 @@ Stumped on a #LeetCode problem?
 Yes. And then, when you get it, you *get* it.
 ### day 13/99
 I worked on a single #LeetCode challenge that I couldn’t make fast enough, and spend a few hours researching my capstone project for school. Not every day is a win.
+### day 14/99
+Much capstone project research today, which is the planning part of coding, I
+suppose.
