@@ -44,3 +44,6 @@ I worked on a single #LeetCode challenge that I couldn’t make fast enough, and
 ### day 14/99
 Much capstone project research today, which is the planning part of coding, I
 suppose.
+### day 15/99
+Lots of coding today. Two algorithm study sessions, javascript practice and OH! 
+ I had to rebuild my entire environment from zsh on up. (Not complaining... applecare gave me a new laptop so that's stellar)
