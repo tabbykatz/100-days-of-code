@@ -47,3 +47,9 @@ suppose.
 ### day 15/99
 Lots of coding today. Two algorithm study sessions, javascript practice and OH! 
  I had to rebuild my entire environment from zsh on up. (Not complaining... applecare gave me a new laptop so that's stellar)
+### day 16/99
+ May this be my darkest day of 100 days of code. I discovered early this
+ morning that I lost my private keys when I replaced my laptop. (I know, I
+		 know, I should have X...) It was a huge blow. Still, did some algo
+ work, javascript, and mapped out my final project for school. Tomorrow is a
+ new day.
