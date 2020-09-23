@@ -53,3 +53,6 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
 		 know, I should have X...) It was a huge blow. Still, did some algo
  work, javascript, and mapped out my final project for school. Tomorrow is a
  new day.
+### day 17/99
+ Today I learned about async await & promises in javascript. Also got the
+ github cli working on my virtual machine!
