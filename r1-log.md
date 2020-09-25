@@ -56,3 +56,7 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
 ### day 17/99
  Today I learned about async await & promises in javascript. Also got the
  github cli working on my virtual machine!
+### day 18/99
+ There was coding between the many zoom meetings of today. I played with
+ jQuery for the first time. I was dazzled by canvas! And I got to use bitwise
+ XOR to solve a problem which is my Very Favorite Thing. 
