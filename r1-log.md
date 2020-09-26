@@ -60,3 +60,5 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
  There was coding between the many zoom meetings of today. I played with
  jQuery for the first time. I was dazzled by canvas! And I got to use bitwise
  XOR to solve a problem which is my Very Favorite Thing. 
+### day 19/99
+ I think I might be addicted to algorithms. Halp?!
