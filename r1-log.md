@@ -62,3 +62,5 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
  XOR to solve a problem which is my Very Favorite Thing. 
 ### day 19/99
  I think I might be addicted to algorithms. Halp?!
+### day 20/99
+ Missed another day of logging 100 days. But did work on the airbnb clone after breaking and fixing my VM. 
