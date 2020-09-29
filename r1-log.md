@@ -64,3 +64,8 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
  I think I might be addicted to algorithms. Halp?!
 ### day 20/99
  Missed another day of logging 100 days. But did work on the airbnb clone after breaking and fixing my VM. 
+### day 21/99
+ days like this one really shake me. will I always be wrangling with jank,
+ trying desperately to fix it, confronting my own inadequate understandings?
+ Then there are days I feel confident: I am learning, even if that is not
+ happening as quickly as I'd like.
