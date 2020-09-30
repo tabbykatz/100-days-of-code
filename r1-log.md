@@ -1,4 +1,5 @@
-# #100DaysOfCode Log - Round 1 - [Tabitha O'Melay]
+#
+#100DaysOfCode Log - Round 1 - [Tabitha O'Melay]
 
 The log of my #100DaysOfCode challenge. Started on [Sept 06, Sunday, 2020].
 
@@ -71,3 +72,7 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
  happening as quickly as I'd like.
 ### day 22/99
  web stack debugging. it's like the treasure field in LoZ: A Link to the Past
+### day 23/99
+DON'T RUN YOUR HAPROXY CONFIG SCRIPTS ON YOUR FECKING WEB SERVERS but if you did:
+sudo apt-get purge --auto-remove haproxy
+
