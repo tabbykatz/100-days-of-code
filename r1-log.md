@@ -69,3 +69,5 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
  trying desperately to fix it, confronting my own inadequate understandings?
  Then there are days I feel confident: I am learning, even if that is not
  happening as quickly as I'd like.
+### day 22/99
+ web stack debugging. it's like the treasure field in LoZ: A Link to the Past
