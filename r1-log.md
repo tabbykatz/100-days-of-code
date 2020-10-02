@@ -75,4 +75,6 @@ Lots of coding today. Two algorithm study sessions, javascript practice and OH!
 ### day 23/99
 DON'T RUN YOUR HAPROXY CONFIG SCRIPTS ON YOUR FECKING WEB SERVERS but if you did:
 sudo apt-get purge --auto-remove haproxy
-
+### day 24/99
+no, you broke one of the servers you rebuilt yesterday. less coding more
+planning for my portfolio project with an MVP spcification (my first!)
