@@ -78,3 +78,7 @@ sudo apt-get purge --auto-remove haproxy
 ### day 24/99
 no, you broke one of the servers you rebuilt yesterday. less coding more
 planning for my portfolio project with an MVP spcification (my first!)
+### day 25/99
+long break due to illness that i was convinced was covid, but tested
+negative.back at it now with react,struggling with css, but positively addicted
+to this project. 
