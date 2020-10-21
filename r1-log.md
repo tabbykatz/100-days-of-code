@@ -82,3 +82,7 @@ planning for my portfolio project with an MVP spcification (my first!)
 long break due to illness that i was convinced was covid, but tested
 negative.back at it now with react,struggling with css, but positively addicted
 to this project. 
+### day 26/100
+feeling great about my react website & blog engine. Lots of tinkering today
+with silly css tricks, finished importing content, tried to solve my
+next.confic.js woes... another day. 
