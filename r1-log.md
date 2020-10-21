@@ -83,6 +83,8 @@ long break due to illness that i was convinced was covid, but tested
 negative.back at it now with react,struggling with css, but positively addicted
 to this project. 
 ### day 26/100
+beautiful progress on the portfolio! i love React. 
+### day 27/99
 feeling great about my react website & blog engine. Lots of tinkering today
 with silly css tricks, finished importing content, tried to solve my
 next.confic.js woes... another day. 
