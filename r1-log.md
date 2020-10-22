@@ -88,3 +88,7 @@ beautiful progress on the portfolio! i love React.
 feeling great about my react website & blog engine. Lots of tinkering today
 with silly css tricks, finished importing content, tried to solve my
 next.confic.js woes... another day. 
+### day 28/99
+met with groups at school to share our progress on portfolio projects. Tried in
+vain to nest more config in my next.config.js then allowed myself to be
+entranced by three.js for awhile. 
