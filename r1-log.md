@@ -92,3 +92,7 @@ next.confic.js woes... another day.
 met with groups at school to share our progress on portfolio projects. Tried in
 vain to nest more config in my next.config.js then allowed myself to be
 entranced by three.js for awhile. 
+### day 29/99
+I took the second half of the day off, but this morning I spent (yet more) time
+looking into next.config.js, fidding with some styles, and resuming my
+freecodecamp work. 
