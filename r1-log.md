@@ -96,3 +96,7 @@ entranced by three.js for awhile.
 I took the second half of the day off, but this morning I spent (yet more) time
 looking into next.config.js, fidding with some styles, and resuming my
 freecodecamp work. 
+### day 30/99
+Got started on my landing page, rendered by the same react app as my project. I
+struggled with Layout for a long time before I learned how to abuse it to make
+a distict layout for the landing page. Still a WIP, but I am happy. 
