@@ -100,3 +100,5 @@ freecodecamp work.
 Got started on my landing page, rendered by the same react app as my project. I
 struggled with Layout for a long time before I learned how to abuse it to make
 a distict layout for the landing page. Still a WIP, but I am happy. 
+### days 31 & 32/99
+I'm in the final week of my React project for school, and struggling mightily with end-of-build doldrums. What even is Javascript? Is CSS really awesome? WHY
