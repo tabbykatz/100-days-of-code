@@ -104,3 +104,6 @@ a distict layout for the landing page. Still a WIP, but I am happy.
 I'm in the final week of my React project for school, and struggling mightily with end-of-build doldrums. What even is Javascript? Is CSS really awesome? WHY
 ### day 33/99
 All the hard parts of deploying a project: slides, blog posts, landing pages, and readmes. These are just as much a part of it as any code.
+### day 34/99
+Finished my presentation slides and landing page today, no thanks to the many
+shiny new concepts I stumbled into and wanted so badly to follow. 
