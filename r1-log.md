@@ -107,3 +107,10 @@ All the hard parts of deploying a project: slides, blog posts, landing pages, an
 ### day 34/99
 Finished my presentation slides and landing page today, no thanks to the many
 shiny new concepts I stumbled into and wanted so badly to follow. 
+### day 35/99
+Total overwhelm with final presentation on react build
+### day 36/99
+break for halloween. social distance outdoor movie with friends!
+### day 37/99
+finally set up my desktop with a new keyboard and everything in its place. 
+less coding and more making my environment comfortable.
