@@ -115,4 +115,5 @@ break for halloween. social distance outdoor movie with friends!
 finally set up my desktop with a new keyboard and everything in its place. 
 less coding and more making my environment comfortable.
 ### day 38/99
-
+One week into Specializations, wrote a blog post and trying to get back into
+100days
