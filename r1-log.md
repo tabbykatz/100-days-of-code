@@ -148,3 +148,4 @@ All you're doing is school/work? It still counts.
 Today: API research, a must before bending them to my will.
 ### day 49/99
 Awww, my baby automated event creation is alive! I've spent today harnessing both the Github and Google Calendar APIs.
+And that was my first attempt at 100 days. Better luck next time! 
