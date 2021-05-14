@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 14, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began 50 projects 50 days, started from the beginning in the YDKJS series (Up & Going).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This is my second attempt at 100 days, and I hope to be better about it. 
+I am /this close/ to finishing my FCC Responsive Web Design Certification but I
+know I need more practice to have truly earned it, hence the 50 / 50 class. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [50 Projects 50 Days](https://www.udemy.com/course/50-projects-50-days/)
 
 
-### Day 1: June 27, Monday
+[Find me on Free Code Camp](https://www.freecodecamp.org/tabbykatz)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### template, don't delete me ###
+### Day
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**:
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:**
+
+**Link to work:** [link_name](http://www.example.com)
