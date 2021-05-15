@@ -32,4 +32,3 @@ that they become more fluid.
 
 **Thoughts:**
 
-**Link to work:** [link_name](http://www.example.com)
