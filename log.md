@@ -22,6 +22,15 @@ that they become more fluid.
 
 **Link to Work**: [50 Projects 50 Days](https://www.udemy.com/course/50-projects-50-days)
 
+### Day 2: May 16, 2021
+
+**Today's Progress**: Project 2/50 complete! more ES6.
+
+**Thoughts**: brad moves very quickly but I am keeping up. Want to learn to
+better use Emmett.
+
+**Link to Work**[Emmett Crash Course](https://youtu.be/5BIAdWNcr8Y)
+
 
 [Find me on Free Code Camp](https://www.freecodecamp.org/tabbykatz)
 
