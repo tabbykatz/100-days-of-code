@@ -32,6 +32,16 @@ better use Emmett.
 **Link to Work**[Emmett Crash Course](https://youtu.be/5BIAdWNcr8Y)
 
 
+### Day 3: May 17, 2021
+
+**Today's Progress**: Project 3/50 complete! Also attended a live stream with githubeducation.
+
+**Thoughts**: I struggled with many tiny errors and lazy typing issues today.
+Was inspired by the live stream and hope to attend more things like that. 
+
+**Link to Something ** [github education on twitch](https://www.twitch.tv/githubeducation)
+
+
 [Find me on Free Code Camp](https://www.freecodecamp.org/tabbykatz)
 
 ### template, don't delete me ###
