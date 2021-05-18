@@ -42,6 +42,18 @@ Was inspired by the live stream and hope to attend more things like that.
 **Link to Something ** [github education on twitch](https://www.twitch.tv/githubeducation)
 
 
+### Day 4: May 18, 2021
+
+**Today's Progress**: Completed 4th project in 50/50 on Udemy, and spent some
+time on HackerRank trying to get used to their platform which I currently find abbhorent compared to LeetCode.
+
+**Thoughts**: I go back and forth in my first impulses when it comes to solving algos. Sometimes I handily break a problem down, other times I can't stop trying to think of a 'trick' to use.
+
+**Link to a Thing**: [HackerRank: Jumping on the
+Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)
+
+
+
 [Find me on Free Code Camp](https://www.freecodecamp.org/tabbykatz)
 
 ### template, don't delete me ###
