@@ -53,7 +53,15 @@ time on HackerRank trying to get used to their platform which I currently find a
 Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)
 
 
+### day 5: May 19, 2021
 
+**Today's Progress**: Project 5 was 'Blurry Loading', a short and sweet but
+elegant little trick. Also hit up free code camp & an algo or two.
+
+**Thoughts**: I'm planning to do an online copde test for an internship
+tomorrow. Not sure if I hope I fail this or the in person code challenge. 
+
+**Link**: [Next.js Conf!!!](https://nextjs.org/conf/tickets/jun21/tabbykatz)
 [Find me on Free Code Camp](https://www.freecodecamp.org/tabbykatz)
 
 ### template, don't delete me ###
