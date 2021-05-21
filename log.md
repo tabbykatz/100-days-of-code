@@ -76,6 +76,18 @@ don't know if I am ready to feel rejected.
 **Link**: sorry, I got nothing
 [Find me on Free Code Camp](https://www.freecodecamp.org/tabbykatz)
 
+### Day 7: May 21, 2021
+
+**Progress**: 7th project, a longer one today. Some FCC and some algo practice. 
+
+**Thoughts**: Yesterday was rough, but all I can do is keep going. Hey check
+out my link for a repo full of python versions of all the algos in Cracking the
+Coding Interview.
+
+**Link** [Python for
+CTCI](https://github.com/careercup/CtCI-6th-Edition-Python)
+
+
 ### template, don't delete me ###
 ### Day
 
