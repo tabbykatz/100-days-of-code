@@ -88,10 +88,14 @@ Coding Interview.
 CTCI](https://github.com/careercup/CtCI-6th-Edition-Python)
 
 
-### template, don't delete me ###
-### Day
+### Day 8: May 22, 2021
 
-**Today's Progress**:
+**Progress**: 8th one down, and I learned a bit. Probably start my Cracking the
+Coding Interview (in python) project later.
 
-**Thoughts:**
+**Thoughts**: Since some of my first Javascript was operating blind with other
+people's code examples, it's fun to learn how and why things work and be able
+to have these 'aha!' moments where I finally understand something I've used int he
+past.
 
+**Link**: [Visualize Code Execution with PythonTutor](http://pythontutor.com/)
