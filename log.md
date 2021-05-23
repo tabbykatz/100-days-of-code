@@ -99,3 +99,12 @@ to have these 'aha!' moments where I finally understand something I've used int 
 past.
 
 **Link**: [Visualize Code Execution with PythonTutor](http://pythontutor.com/)
+
+### Day 9: May 23, 2021
+
+**Progress**: 9th project, a cute little sound board. I didn't get to CTCI
+yesterday so that's next today.
+
+**Thoughts** Udemy Sale is beckoning...
+
+**Link**: sorry, got nothing today
