@@ -108,3 +108,14 @@ yesterday so that's next today.
 **Thoughts** Udemy Sale is beckoning...
 
 **Link**: sorry, got nothing today
+
+### Day 10: May 24, 2021
+
+**Progress**: Another day another project from 50/50, this time making fetches
+of dad jokes... Also started a new Udemy course yesterday: The Coding Interview Bootcamp: Algorithms + Data Structures 
+
+**Thoughts**: I'm certain that gridning algos is going to help me, in any
+language. So far so good on the new course. 
+
+**Link**: [The Coding Interview
+Bootcamp](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
