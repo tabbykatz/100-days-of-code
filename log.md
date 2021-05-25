@@ -119,3 +119,13 @@ language. So far so good on the new course.
 
 **Link**: [The Coding Interview
 Bootcamp](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+
+###Day 11: May 15, 2021
+
+**Progress**: project 11/50 today! Small and fun, I always learn something. I
+also worked through multiple common solutions for revstr and palindromestr in
+javascript. 
+
+**Thoughts**: Allergies make my head feel like it is full of glue
+
+**Link**: NO
