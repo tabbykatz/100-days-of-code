@@ -120,7 +120,7 @@ language. So far so good on the new course.
 **Link**: [The Coding Interview
 Bootcamp](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
 
-###Day 11: May 15, 2021
+###Day 11: May 25, 2021
 
 **Progress**: project 11/50 today! Small and fun, I always learn something. I
 also worked through multiple common solutions for revstr and palindromestr in
@@ -129,3 +129,15 @@ javascript.
 **Thoughts**: Allergies make my head feel like it is full of glue
 
 **Link**: NO
+
+### Day 12: May 26, 2021
+
+**Progress**: Today I worked through 3 algos in one course and the 12th
+project of 50/50. I also took some time to update my portfolio site a bit,
+		something I'd like to start spending daily time on. 
+
+**Thoughts**: Looking at the code for my portfolio site for the first time in
+months and I have learned so much Js since then... my old code looks so bad, lol.
+But it gets the job done. 
+
+**Link** [tabbykatz.com, my portfolio site](https://www.tabbykatz.com/)
