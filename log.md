@@ -141,3 +141,14 @@ months and I have learned so much Js since then... my old code looks so bad, lol
 But it gets the job done. 
 
 **Link** [tabbykatz.com, my portfolio site](https://www.tabbykatz.com/)
+
+### Day 13/99: May 27, 2021
+
+**Progress**: Worked on 4 or 5 algorithms in depth today, plus the next 50/50
+project, a random choice picker in vanilla Js.
+
+**Thoughts**: I have hope that switching between languages on the regular will
+eventually solidify my understanding of all of them, as well as CS principles in
+general.
+
+**Link**: [LeetCode Explore/ Learn](https://leetcode.com/explore/learn/)
