@@ -152,3 +152,12 @@ eventually solidify my understanding of all of them, as well as CS principles in
 general.
 
 **Link**: [LeetCode Explore/ Learn](https://leetcode.com/explore/learn/)
+
+### Day 14/99: May 28, 2021
+
+**Progress**: Skipped 50/50 (I'll do 2 tomorrow) and focused on Js algos and job
+hunt!
+
+**Thoughts**: Writing a resume makes me ill. Applying to roles makes me ill. 
+
+**Link**: [Me on Triplebyte](https://triplebyte.com/tb/tabitha-omelay-xqycguo)
