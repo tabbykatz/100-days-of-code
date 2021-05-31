@@ -161,3 +161,14 @@ hunt!
 **Thoughts**: Writing a resume makes me ill. Applying to roles makes me ill. 
 
 **Link**: [Me on Triplebyte](https://triplebyte.com/tb/tabitha-omelay-xqycguo)
+
+### Days 15, 16, 17 May 29 - 31 2021
+
+**Progress**: Lots of algos and 50/50, but even more FCC. Got my Responsive Web Design Cert!
+
+
+**Thoughts**: I missed logging here but i still tweeted and did the work. I've also been reading Effective Python. 
+
+
+**Link**: [Tabitha's Responsive Web Design
+Certification](https://www.freecodecamp.org/certification/tabbykatz/responsive-web-design)
