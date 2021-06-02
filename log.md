@@ -172,3 +172,13 @@ hunt!
 
 **Link**: [Tabitha's Responsive Web Design
 Certification](https://www.freecodecamp.org/certification/tabbykatz/responsive-web-design)
+
+### Day 18 & 19: June 1 & 2, 2021
+
+**Progress**: Lots of FCC Js. Lots and Lots. 
+
+**Thoughts**: You may be wondering, what happened to the Udemy courses? What
+about 50 Projects 50 Days? Well My participation in the Techtonica workshops
+has gotten in the way, but I will return to those things!
+
+**Link**[techtonica!](https://techtonica.org/)
